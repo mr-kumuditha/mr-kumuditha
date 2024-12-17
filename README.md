@@ -6,6 +6,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mr-kumuditha&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-kumuditha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg
+
 ---
 [![](https://visitcount.itsvg.in/api?id=mr-kumuditha&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
