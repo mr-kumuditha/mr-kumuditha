@@ -244,19 +244,8 @@ const kumuditha = {
 
 <div align="center">
 
-## 🏆 GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=mr-kumuditha&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)
-
----
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mr-kumuditha&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mr-kumuditha&layout=compact&hide_border=true&theme=tokyonight)
-
----
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mr-kumuditha&hide_border=true&theme=tokyonight)
 
 </div>
 
