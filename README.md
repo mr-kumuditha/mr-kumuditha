@@ -1,32 +1,31 @@
+<!-- HEADER BANNER -->
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00fff5,100:bf00ff&height=200&section=header&text=KUMUDITHA&fontSize=80&fontColor=00fff5&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Digital%20Architect&descAlignY=60&descColor=bf00ff&descSize=18" />
-
-<!-- TYPING ANIMATION -->
-<a href="https://tharinda.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FFF5&center=true&vCenter=true&width=600&lines=Hello%2C+World.+I'm+Kumuditha+%F0%9F%91%BE;Full+Stack+Engineer+%26+Problem+Solver;Building+the+future%2C+one+commit+at+a+time;Open+to+collaborate+%E2%9A%A1" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- SOCIAL BADGES -->
-<a href="https://tharinda.dev">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-tharinda.dev-00fff5?style=for-the-badge&labelColor=0d0d0d&color=00fff5" />
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-bf00ff?style=for-the-badge&labelColor=0d0d0d&logo=statuspage&logoColor=bf00ff" />
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=mr-kumuditha&style=for-the-badge&color=00fff5&label=PROFILE+VIEWS&abbreviated=true" />
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=180&section=header&text=KUMUDITHA&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Developer%20%7C%20Digital%20Architect&descAlignY=75&descColor=aef&descSize=16)
 
 </div>
 
 ---
 
-<!-- ABOUT ME SECTION -->
 <div align="center">
-  <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp;<span style="color:#00fff5">ABOUT ME</span></h2>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Kumuditha+%F0%9F%91%BE;Full+Stack+Engineer+%26+Problem+Solver;Building+the+future%2C+one+commit+at+a+time+%E2%9A%A1;Open+to+Collaborate+%F0%9F%A4%9D)](https://readme-typing-svg.demolab.com)
+
 </div>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-tharinda.dev-00f5ff?style=for-the-badge&labelColor=0d0d0d)](https://tharinda.dev)
+&nbsp;
+![Status](https://img.shields.io/badge/Status-Open%20To%20Work-bf00ff?style=for-the-badge&labelColor=0d0d0d)
+&nbsp;
+![Visitors](https://komarev.com/ghpvc/?username=mr-kumuditha&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## 👾 About Me
 
 ```typescript
 const kumuditha = {
@@ -41,31 +40,16 @@ const kumuditha = {
 };
 ```
 
-<table align="center">
-  <tr>
-    <td>🔭 &nbsp;<strong>Currently building</strong></td>
-    <td>Scalable full-stack applications</td>
-  </tr>
-  <tr>
-    <td>🌐 &nbsp;<strong>Portfolio</strong></td>
-    <td><a href="https://tharinda.dev">tharinda.dev</a></td>
-  </tr>
-  <tr>
-    <td>⚡ &nbsp;<strong>Superpower</strong></td>
-    <td>Turning complex ideas into clean, working code</td>
-  </tr>
-  <tr>
-    <td>🤝 &nbsp;<strong>Open to</strong></td>
-    <td>Collaborations, freelance & open-source projects</td>
-  </tr>
-</table>
+| | |
+|---|---|
+| 🔭 **Currently building** | Scalable full-stack applications |
+| 🌐 **Portfolio** | [tharinda.dev](https://tharinda.dev) |
+| ⚡ **Superpower** | Turning complex ideas into clean, working code |
+| 🤝 **Open to** | Collaborations, freelance & open-source |
 
 ---
 
-<!-- TECH STACK -->
-<div align="center">
-  <h2>⚡ TECH STACK</h2>
-</div>
+## ⚡ Tech Stack
 
 **💬 Languages**
 
@@ -83,7 +67,7 @@ const kumuditha = {
 **🚀 Frameworks & Runtimes**
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
@@ -101,7 +85,7 @@ const kumuditha = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Microsoft SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 **🎨 Design Tools**
 
@@ -111,84 +95,53 @@ const kumuditha = {
 
 ---
 
-<!-- GITHUB STATS -->
+## 📊 GitHub Stats
+
 <div align="center">
-  <h2>📊 GITHUB STATS</h2>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mr-kumuditha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=00f5ff&text_color=ffffff&icon_color=bf00ff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-kumuditha&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d0d0d&title_color=00f5ff&text_color=ffffff" />
+</div>
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mr-kumuditha&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=00fff5&text_color=ffffff&icon_color=bf00ff&border_radius=10" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-kumuditha&theme=chartreuse-dark&hide_border=true&background=0d0d0d&ring=00fff5&fire=bf00ff&currStreakLabel=00fff5&border_radius=10" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mr-kumuditha&theme=tokyonight&hide_border=true&background=0d0d0d&ring=00f5ff&fire=bf00ff&currStreakLabel=00f5ff&sideLabels=ffffff&dates=aaaaaa" />
+</div>
 
-  <br/><br/>
+---
 
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-kumuditha&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d0d0d&title_color=00fff5&text_color=ffffff&border_radius=10" />
+## 📈 Contribution Graph
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mr-kumuditha&bg_color=0d0d0d&color=00f5ff&line=bf00ff&point=ffffff&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🛠️ Featured Projects
+
+> 🌐 See all projects at **[tharinda.dev](https://tharinda.dev)**
+
+<div align="center">
+
+| Project | Stack | Description |
+|--------|-------|-------------|
+| 🔷 **Project Alpha** | `TypeScript` `React` `Node.js` | Full-stack modern web application |
+| 🔷 **Project Beta** | `Python` `Firebase` `GCP` | Cloud-native backend solution |
+| 🔷 **Project Gamma** | `Rust` `Supabase` | High-performance data pipeline |
+
+> 💡 Replace these rows with your real projects from [tharinda.dev](https://tharinda.dev)!
 
 </div>
 
 ---
 
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <h2>📈 CONTRIBUTION ACTIVITY</h2>
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mr-kumuditha&bg_color=0d0d0d&color=00fff5&line=bf00ff&point=ffffff&area=true&area_color=00fff520&hide_border=true&radius=10" />
-</div>
-
----
-
-<!-- PROJECTS -->
-<div align="center">
-  <h2>🛠️ FEATURED PROJECTS</h2>
-</div>
-
-<div align="center">
-  <a href="https://tharinda.dev">
-    <img src="https://img.shields.io/badge/🌐_View_All_Projects_at-tharinda.dev-00fff5?style=for-the-badge&labelColor=0d0d0d" />
-  </a>
-</div>
-
-<br/>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔷 Project Alpha</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-00fff5?style=flat-square&logo=typescript&logoColor=0d0d0d" />
-        <img src="https://img.shields.io/badge/React-bf00ff?style=flat-square&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-00fff5?style=flat-square&logo=node.js&logoColor=0d0d0d" />
-      </p>
-      <p align="center">A full-stack application with modern architecture. Visit <a href="https://tharinda.dev">tharinda.dev</a> for details.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔷 Project Beta</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-00fff5?style=flat-square&logo=python&logoColor=0d0d0d" />
-        <img src="https://img.shields.io/badge/Firebase-bf00ff?style=flat-square&logo=firebase&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cloud-00fff5?style=flat-square&logo=google-cloud&logoColor=0d0d0d" />
-      </p>
-      <p align="center">Cloud-native solution leveraging GCP & Firebase. Visit <a href="https://tharinda.dev">tharinda.dev</a> for details.</p>
-    </td>
-  </tr>
-</table>
-
-> 💡 **Update the project cards above** with your real project names, descriptions, and links from [tharinda.dev](https://tharinda.dev)!
-
----
-
-<!-- FOOTER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bf00ff,50:00fff5,100:0d0d0d&height=120&section=footer" />
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 **⚡ "Code is poetry written in logic." ⚡**
 
-<br/>
+[![Portfolio](https://img.shields.io/badge/🌐-tharinda.dev-00f5ff?style=for-the-badge&labelColor=0d0d0d)](https://tharinda.dev)
 
-<a href="https://tharinda.dev">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%90_tharinda.dev-Visit%20Portfolio-00fff5?style=for-the-badge&labelColor=0d0d0d" />
-</a>
-
-<br/><br/>
-
-*Crafted with 💜 & a lot of ☕ — [mr-kumuditha](https://github.com/mr-kumuditha)*
+*Crafted with 💜 & ☕ by [mr-kumuditha](https://github.com/mr-kumuditha)*
 
 </div>
