@@ -179,8 +179,8 @@ const kumuditha = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mr-kumuditha&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0a&title_color=00f5ff&text_color=ffffff&icon_color=bf00ff&ring_color=00f5ff&theme=tokyonight" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-kumuditha&hide_border=true&layout=compact&bg_color=0a0a0a&title_color=00f5ff&text_color=ffffff&theme=tokyonight&langs_count=8" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=mr-kumuditha&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0a&title_color=00f5ff&text_color=ffffff&icon_color=bf00ff&ring_color=00f5ff&theme=tokyonight" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mr-kumuditha&hide_border=true&layout=compact&bg_color=0a0a0a&title_color=00f5ff&text_color=ffffff&theme=tokyonight&langs_count=8" />
 
 </div>
 
@@ -216,7 +216,7 @@ const kumuditha = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-kumuditha&repo=mr-kumuditha&bg_color=0a0a0a&title_color=00f5ff&text_color=aaaaaa&icon_color=bf00ff&border_color=1a1a2e&hide_border=false&theme=tokyonight)](https://github.com/mr-kumuditha?tab=repositories)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=mr-kumuditha&repo=mr-kumuditha&bg_color=0a0a0a&title_color=00f5ff&text_color=aaaaaa&icon_color=bf00ff&border_color=1a1a2e&hide_border=false&theme=tokyonight)](https://github.com/mr-kumuditha?tab=repositories)
 
 </div>
 
