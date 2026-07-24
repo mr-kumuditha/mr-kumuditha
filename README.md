@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Kumuditha%20Tharinda&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=⚡%20Full%20Stack%20Developer%20%7C%20Digital%20Architect%20%7C%20Sri%20Lanka%20🇱🇰&descAlignY=67&descColor=00f5ff&descSize=15&stroke=00f5ff&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,15,30&height=250&section=header&text=KUMUDITHA%20THARINDA&fontSize=52&fontColor=00f5ff&animation=twinkling&fontAlignY=38&desc=⚡%20Full%20Stack%20Architect%20%7C%20Cloud%20Engineer%20%7C%20Digital%20Creator%20🇱🇰&descAlignY=62&descColor=ffffff&descSize=16&stroke=bf00ff&strokeWidth=2" width="100%" alt="Header Banner"/>
 
 </div>
 
@@ -12,12 +12,12 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&multiline=false&width=650&lines=🚀+Building+scalable+full-stack+applications;⚡+TypeScript+%7C+React+%7C+Node.js+%7C+Python+%7C+Rust;☁️+Cloud+Architect+on+GCP+%7C+Firebase+%7C+Vercel;🌐+Visit+me+→+tharinda.dev;🤝+Open+to+collaborations+%26+freelance)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=false&width=700&lines=🚀+Architecting+Scalable+Full-Stack+Web+Apps;⚡+TypeScript+%7C+React+%7C+Node.js+%7C+Python+%7C+Rust;☁️+Cloud+Native+on+GCP+%7C+Firebase+%7C+Vercel;🌐+Explore+My+Work+→+tharinda.dev;🤝+Available+for+Freelance+%26+Global+Opportunities)](https://readme-typing-svg.demolab.com)
 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      BADGE ROW                                 -->
+<!--                      BADGE & METRICS ROW                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
@@ -27,6 +27,8 @@
 [![Status](https://img.shields.io/badge/💼_Status-Open%20To%20Work-00ff88?style=for-the-badge&labelColor=0a0a0a)](https://tharinda.dev)
 
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -39,39 +41,39 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       ABOUT ME                                 -->
+<!--                       ABOUT ME TERMINAL                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave"> About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="290" alt="coding gif"/>
 
 ```typescript
-const kumuditha = {
-  name        : "Kumuditha Tharinda",
-  alias       : "mr-kumuditha",
-  location    : "Sri Lanka 🇱🇰",
-  portfolio   : "https://tharinda.dev",
-  role        : "Full Stack Developer",
+// 🔴 🟡 🟢  kumuditha.config.ts
+const developer = {
+  name         : "Kumuditha Tharinda",
+  alias        : "mr-kumuditha",
+  title        : "Full Stack Architect & Systems Developer",
+  location     : "Sri Lanka 🇱🇰",
+  portfolio    : "https://tharinda.dev",
 
-  expertise   : [
-    "Full Stack Web Development",
-    "Cloud Architecture",
-    "API Design & Integration",
-    "UI/UX Implementation",
+  coreExpertise: [
+    "Full-Stack Web Applications",
+    "Cloud Architecture & Microservices",
+    "High-Performance API Engineering",
+    "Modern UI/UX Design Systems",
   ],
 
-  stack: {
-    languages : ["TypeScript","Python","Rust","C#","Java","Swift","Ruby","C"],
-    frontend  : ["React", "HTML5", "Framer", "Figma"],
-    backend   : ["Node.js", ".NET", "Apache"],
-    cloud     : ["GCP", "Firebase", "Vercel", "Cloudflare"],
-    databases : ["MySQL", "Supabase", "MSSQL", "Firebase"],
+  technologyStack: {
+    languages  : ["TypeScript", "Python", "Rust", "C#", "Java", "Swift", "C"],
+    frontend   : ["React", "HTML5/CSS3", "Framer Motion", "TailwindCSS"],
+    backend    : ["Node.js", ".NET Core", "REST / GraphQL"],
+    cloud      : ["Google Cloud Platform", "Firebase", "Vercel", "Cloudflare"],
+    databases  : ["PostgreSQL", "MySQL", "Supabase", "Firebase Firestore"],
   },
 
-  currentFocus : "Scalable SaaS products & cloud-native apps",
-  funFact      : "I debug with coffee ☕ and ship with passion 🚀",
-  available    : true,
+  philosophy   : "Clean code, modular architecture, exceptional user experience.",
+  status       : "Available for innovative projects & remote roles 🚀",
 };
 ```
 
@@ -79,47 +81,61 @@ const kumuditha = {
 
 <table>
   <tr>
-    <td>🔭</td><td><strong>Currently building</strong></td><td>Scalable SaaS & cloud-native applications</td>
+    <td>🔭 <strong>Building</strong></td>
+    <td>Scalable SaaS applications & high-performance cloud services</td>
   </tr>
   <tr>
-    <td>🌱</td><td><strong>Learning</strong></td><td>Rust systems programming & advanced cloud patterns</td>
+    <td>🌱 <strong>Exploring</strong></td>
+    <td>Rust systems engineering, AI integrations & serverless edge platforms</td>
   </tr>
   <tr>
-    <td>🌐</td><td><strong>Portfolio</strong></td><td><a href="https://tharinda.dev">tharinda.dev</a></td>
+    <td>🌐 <strong>Portfolio</strong></td>
+    <td><a href="https://tharinda.dev"><strong>tharinda.dev</strong></a></td>
   </tr>
   <tr>
-    <td>⚡</td><td><strong>Superpower</strong></td><td>Turning complex problems into elegant, working code</td>
+    <td>⚡ <strong>Superpower</strong></td>
+    <td>Transforming complex ideas into pixel-perfect, production-ready code</td>
   </tr>
   <tr>
-    <td>🤝</td><td><strong>Open to</strong></td><td>Freelance, open-source & remote collaborations</td>
+    <td>🤝 <strong>Collaborations</strong></td>
+    <td>Open to freelance contracts, open-source projects & remote teams</td>
   </tr>
   <tr>
-    <td>📍</td><td><strong>Based in</strong></td><td>Colombo, Sri Lanka</td>
+    <td>📍 <strong>Location</strong></td>
+    <td>Colombo, Sri Lanka 🇱🇰</td>
   </tr>
 </table>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK                                -->
+<!--                      TECH STACK MATRIX                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack & Tools
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,rust,cpp,cs,java,swift,gcp,firebase,vercel,cloudflare,mysql,postgres,supabase,figma&perline=9&theme=dark" alt="Skill Icons" />
+</a>
+
+</div>
+
+<br/>
 
 <details open>
 <summary><b>💬 Languages</b></summary>
 <br>
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 </details>
 
@@ -130,63 +146,53 @@ const kumuditha = {
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>☁️ Cloud & Hosting</b></summary>
+<summary><b>☁️ Cloud & Infrastructure</b></summary>
 <br>
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>🗄️ Databases</b></summary>
+<summary><b>🗄️ Databases & Storage</b></summary>
 <br>
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![MicrosoftSQLServer](https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🎨 Design</b></summary>
-<br>
-
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </details>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     GITHUB STATS                               -->
+<!--                     GITHUB ANALYTICS DASHBOARD                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=mr-kumuditha&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0a&title_color=00f5ff&text_color=ffffff&icon_color=bf00ff&ring_color=00f5ff&theme=tokyonight" />
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mr-kumuditha&hide_border=true&layout=compact&bg_color=0a0a0a&title_color=00f5ff&text_color=ffffff&theme=tokyonight&langs_count=8" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=mr-kumuditha&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0a&title_color=00f5ff&text_color=ffffff&icon_color=bf00ff&ring_color=00f5ff&theme=tokyonight" alt="GitHub Stats" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mr-kumuditha&hide_border=true&layout=compact&bg_color=0a0a0a&title_color=00f5ff&text_color=ffffff&theme=tokyonight&langs_count=8" alt="Top Languages" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=mr-kumuditha&hide_border=true&background=0a0a0a&ring=00f5ff&fire=bf00ff&currStreakLabel=00f5ff&sideLabels=aaaaaa&dates=888888&sideNums=ffffff&currStreakNum=ffffff&theme=tokyonight" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=mr-kumuditha&hide_border=true&background=0a0a0a&ring=00f5ff&fire=bf00ff&currStreakLabel=00f5ff&sideLabels=aaaaaa&dates=888888&sideNums=ffffff&currStreakNum=ffffff&theme=tokyonight" alt="GitHub Streak" />
 
 </div>
 
@@ -196,7 +202,7 @@ const kumuditha = {
 <!--                  CONTRIBUTION GRAPH                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📈 Contribution Activity
+## 📈 Activity & Commit Graph
 
 <div align="center">
 
@@ -207,12 +213,12 @@ const kumuditha = {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   PINNED / FEATURED REPOS                      -->
+<!--                   FEATURED PROJECTS                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🛠️ Featured Projects
+## 🛠️ Featured Showcase
 
-> 🌐 **Full project showcase at [tharinda.dev](https://tharinda.dev)**
+> 🌐 **Discover more live demos at [tharinda.dev](https://tharinda.dev)**
 
 <div align="center">
 
@@ -220,17 +226,16 @@ const kumuditha = {
 
 </div>
 
-<!-- ───── PROJECT TABLE ───── -->
-> 💡 **Update the table below with your real repos** — replace `REPO_NAME` with actual repository names from your GitHub!
+<br/>
 
 <div align="center">
 
-| 🔷 Project | 🛠️ Stack | 📝 Description | 🔗 |
-|:-----------|:---------|:--------------|:--:|
-| **Your Project 1** | `TypeScript` `React` `Node.js` | Add your project description here | [→ View](https://github.com/mr-kumuditha) |
-| **Your Project 2** | `Python` `Firebase` `GCP` | Add your project description here | [→ View](https://github.com/mr-kumuditha) |
-| **Your Project 3** | `Rust` `Supabase` | Add your project description here | [→ View](https://github.com/mr-kumuditha) |
-| **Your Project 4** | `C#` `.NET` `MSSQL` | Add your project description here | [→ View](https://github.com/mr-kumuditha) |
+| 🔷 Project | 🛠️ Tech Stack | 📝 Description | 🔗 Link |
+|:-----------|:---------------|:--------------|:-------:|
+| **Personal Portfolio** | `React` `TypeScript` `Vercel` | Modern developer portfolio showcasing work & skills | [→ Visit](https://tharinda.dev) |
+| **Cloud Services** | `Python` `Firebase` `GCP` | Scalable cloud APIs and microservices | [→ View](https://github.com/mr-kumuditha) |
+| **Systems Tooling** | `Rust` `Supabase` | High-performance CLI & backend services | [→ View](https://github.com/mr-kumuditha) |
+| **Enterprise Web** | `C#` `.NET` `SQL` | Enterprise Web Applications & API Architecture | [→ View](https://github.com/mr-kumuditha) |
 
 </div>
 
@@ -240,10 +245,9 @@ const kumuditha = {
 <!--                   ACHIEVEMENTS / TROPHIES                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements & Trophies
 
 <div align="center">
-
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=mr-kumuditha&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)
 
@@ -252,19 +256,32 @@ const kumuditha = {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     CONNECT SECTION                            -->
+<!--                   DAILY DEVELOPER QUOTE                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🤝 Let's Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_tharinda.dev-Visit_Now-00f5ff?style=for-the-badge&labelColor=0a0a0a)](https://tharinda.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-white?style=for-the-badge&logo=github&labelColor=0a0a0a)](https://github.com/mr-kumuditha)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     CONNECT & CONTACT                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-tharinda.dev-00f5ff?style=for-the-badge&labelColor=0a0a0a&color=00f5ff)](https://tharinda.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_@mr--kumuditha-ffffff?style=for-the-badge&logo=github&labelColor=0a0a0a)](https://github.com/mr-kumuditha)
+[![Status](https://img.shields.io/badge/💼_Status-Open_For_Opportunities-00ff88?style=for-the-badge&labelColor=0a0a0a)](https://tharinda.dev)
+
+</div>
+
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                        FOOTER                                  -->
@@ -272,10 +289,10 @@ const kumuditha = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=00f5ff&animation=twinkling&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,15,30&height=120&section=footer&text=Thanks%20for%20stopping%20by!%20🚀&fontSize=22&fontColor=00f5ff&animation=twinkling&fontAlignY=65" width="100%" alt="Footer Banner"/>
 
-**`< Crafted with 💜 & ☕ by Kumuditha Tharinda />`**
+**`< Engineered with 💜 & ☕ by Kumuditha Tharinda />`**
 
-*"Code is poetry written in logic. Ship it." ⚡*
+*"Code is poetry written in logic. Ship with excellence." ⚡*
 
 </div>
