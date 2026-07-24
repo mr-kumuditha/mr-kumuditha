@@ -1,9 +1,9 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  CYBERPUNK HERO HEADER BANNER                  -->
+<!--               PREMIUM CYBERPUNK HERO HEADER                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,5,12,30&height=280&section=header&text=KUMUDITHA%20THARINDA&fontSize=56&fontColor=00f5ff&animation=twinkling&fontAlignY=36&desc=⚡%20Full%20Stack%20Architect%20%7C%20Cloud%20Systems%20Engineer%20%7C%20Digital%20Architect%20🇱🇰&descAlignY=62&descColor=ffffff&descSize=16&stroke=bf00ff&strokeWidth=3" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,5,15,30&height=260&section=header&text=KUMUDITHA%20THARINDA&fontSize=56&fontColor=00f5ff&animation=twinkling&fontAlignY=38&desc=⚡%20Software%20Engineer%20%7C%20Full%20Stack%20%26%20Cloud%20Architect%20%7C%20Sri%20Lanka%20🇱🇰&descAlignY=62&descColor=ffffff&descSize=16&stroke=bf00ff&strokeWidth=3" width="100%" alt="Header Banner"/>
 
 </div>
 
@@ -12,7 +12,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=false&width=750&lines=🚀+Architecting+Scalable+Full-Stack+Enterprise+Apps;⚡+TypeScript+%7C+React+%7C+Node.js+%7C+Python+%7C+Rust;☁️+Cloud+Native+on+GCP+%7C+Firebase+%7C+Vercel;🌐+Explore+My+Digital+Universe+→+tharinda.dev;🤝+Open+for+Freelance+%26+High-Impact+Global+Roles)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=false&width=780&lines=🚀+Architecting+Scalable+Full-Stack+Enterprise+Systems;⚡+TypeScript+%7C+React+%7C+Node.js+%7C+Python+%7C+Rust;☁️+Cloud-Native+Applications+on+GCP+%7C+Firebase+%7C+Vercel;🌐+Discover+My+Digital+Universe+→+tharinda.dev;🤝+Available+For+Freelance+%26+Global+Engineering+Roles)](https://readme-typing-svg.demolab.com)
 
 </div>
 
