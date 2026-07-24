@@ -264,11 +264,22 @@ const developer = {
 <!--                   ACHIEVEMENTS / TROPHIES                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🏆 GitHub Achievements & Trophies
+## 🏆 GitHub Achievements & Profile Summary
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=mr-kumuditha&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)
+<img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-kumuditha&theme=tokyonight" alt="GitHub Profile Summary" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Pull Shark](https://img.shields.io/badge/🏆_Achievement-Pull_Shark-00f5ff?style=for-the-badge&logo=github&labelColor=0a0a0a)](https://github.com/mr-kumuditha)
+[![Quickdraw](https://img.shields.io/badge/⚡_Achievement-Quickdraw-bf00ff?style=for-the-badge&logo=github&labelColor=0a0a0a)](https://github.com/mr-kumuditha)
+[![Starstruck](https://img.shields.io/badge/⭐_Achievement-Starstruck-ffaa00?style=for-the-badge&logo=github&labelColor=0a0a0a)](https://github.com/mr-kumuditha)
+[![Pair Extraordinaire](https://img.shields.io/badge/🤝_Achievement-Pair_Extraordinaire-00ff88?style=for-the-badge&logo=github&labelColor=0a0a0a)](https://github.com/mr-kumuditha)
 
 </div>
 
