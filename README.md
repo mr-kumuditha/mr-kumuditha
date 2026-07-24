@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,5,15,30&height=260&section=header&text=KUMUDITHA%20THARINDA&fontSize=56&fontColor=00f5ff&animation=twinkling&fontAlignY=38&desc=⚡%20Software%20Engineer%20%7C%20Full%20Stack%20%26%20Cloud%20Architect%20%7C%20Sri%20Lanka%20🇱🇰&descAlignY=62&descColor=ffffff&descSize=16&stroke=bf00ff&strokeWidth=3" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,15,30&height=220&section=header&text=Kumuditha%20Tharinda&fontSize=50&fontColor=00f5ff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Architect%20%7C%20Sri%20Lanka&descAlignY=67&descColor=ffffff&descSize=15&stroke=bf00ff&strokeWidth=2" width="100%" alt="Header Banner"/>
 
 </div>
 
