@@ -1,9 +1,9 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  CYBERPUNK HERO HEADER BANNER                  -->
+<!--                    ANIMATED HERO BANNER                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,5,12,30&height=280&section=header&text=KUMUDITHA%20THARINDA&fontSize=56&fontColor=00f5ff&animation=twinkling&fontAlignY=36&desc=⚡%20Full%20Stack%20Architect%20%7C%20Cloud%20Systems%20Engineer%20%7C%20Digital%20Architect%20🇱🇰&descAlignY=62&descColor=ffffff&descSize=16&stroke=bf00ff&strokeWidth=3" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,5,15&height=250&section=header&text=KUMUDITHA%20THARINDA&fontSize=52&fontColor=00f5ff&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full%20Stack%20%26%20IoT%20Builder%20🇱🇰&descAlignY=62&descColor=e6e6e6&descSize=16&stroke=b026ff&strokeWidth=2" width="100%" alt="Hero Banner"/>
 
 </div>
 
@@ -12,184 +12,104 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=false&width=750&lines=🚀+Architecting+Scalable+Full-Stack+Enterprise+Apps;⚡+TypeScript+%7C+React+%7C+Node.js+%7C+Python+%7C+Rust;☁️+Cloud+Native+on+GCP+%7C+Firebase+%7C+Vercel;🌐+Explore+My+Digital+Universe+→+tharinda.dev;🤝+Open+for+Freelance+%26+High-Impact+Global+Roles)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=900&color=00F5FF&center=true&vCenter=true&multiline=false&width=700&lines=Software+engineering+student+at+NIBM;Mobile+%26+web+application+builder;IoT+tinkerer+%26+embedded+systems;Open+to+software+engineering+opportunities)](https://readme-typing-svg.demolab.com)
 
 </div>
 
 <br/>
 
+---
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      BADGE & METRICS ROW                       -->
+<!--                       SHORT INTRO                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-tharinda.dev-00f5ff?style=for-the-badge&labelColor=0a0a0a&color=00f5ff)](https://tharinda.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-mr--kumuditha-ffffff?style=for-the-badge&logo=github&labelColor=0a0a0a)](https://github.com/mr-kumuditha)
-[![Location](https://img.shields.io/badge/📍_Location-Sri%20Lanka-bf00ff?style=for-the-badge&labelColor=0a0a0a)](https://tharinda.dev)
-[![Status](https://img.shields.io/badge/💼_Status-Open%20To%20Work-00ff88?style=for-the-badge&labelColor=0a0a0a)](https://tharinda.dev)
+## ⚡ About Me
 
-</div>
+I am a Software Engineering undergraduate student (HNDSE 25.2F) studying at NIBM in Colombo, Sri Lanka. I build software across mobile apps, desktop utilities, web platforms, and IoT hardware. While I am early in my career without formal corporate titles yet, I have designed, coded, and shipped real software systems ranging from native macOS tools to blockchain-integrated Android applications. I am actively looking for software engineering internships, collaborative projects, and freelance roles where I can contribute clean code and build scalable products.
 
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      TECH STACK BLOCK                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>View Stack & Tooling</b></summary>
 <br/>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=mr-kumuditha&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS&abbreviated=true)
-![GitHub followers](https://img.shields.io/github/followers/mr-kumuditha?style=for-the-badge&color=bf00ff&labelColor=0a0a0a&logo=github&label=FOLLOWERS)
-![GitHub User's stars](https://img.shields.io/github/stars/mr-kumuditha?style=for-the-badge&color=00f5ff&labelColor=0a0a0a&logo=github&label=TOTAL+STARS)
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       ABOUT ME TERMINAL                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="wave"> About Me
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
-
-```typescript
-// 🔴 🟡 🟢  kumuditha.system.ts
-const developer = {
-  name           : "Kumuditha Tharinda",
-  alias          : "mr-kumuditha",
-  role           : "Full Stack Architect & Cloud Engineer",
-  location       : "Colombo, Sri Lanka 🇱🇰",
-  website        : "https://tharinda.dev",
-
-  coreCompetencies: [
-    "Full-Stack Web Engineering (React, Node, Next.js)",
-    "Systems & Cloud Architecture (GCP, Firebase, Vercel)",
-    "High-Performance REST & GraphQL APIs",
-    "Modern UX Design Systems & Motion Graphics",
-  ],
-
-  technologyStack: {
-    languages    : ["TypeScript", "JavaScript", "Python", "Rust", "C#", "C++", "Java", "Swift"],
-    frontend     : ["React", "Next.js", "HTML5", "CSS3", "Framer Motion", "TailwindCSS"],
-    backend      : ["Node.js", ".NET Core", "REST APIs", "GraphQL"],
-    cloud        : ["Google Cloud Platform", "Firebase", "Vercel", "Cloudflare"],
-    databases    : ["PostgreSQL", "MySQL", "Supabase", "Firebase Firestore"],
-  },
-
-  engineeringMotto: "Clean code, scalable architecture, uncompromised user experience.",
-  availability    : "Open to high-impact freelance contracts & full-time roles 🚀",
-};
-```
-
-<br clear="right"/>
-
-<table>
-  <tr>
-    <td>🔭 <strong>Current Focus</strong></td>
-    <td>Building scalable SaaS platforms & cloud-native microservices</td>
-  </tr>
-  <tr>
-    <td>🌱 <strong>Deepening Knowledge</strong></td>
-    <td>Rust systems programming, AI agent integration & edge computing</td>
-  </tr>
-  <tr>
-    <td>🌐 <strong>Digital Hub</strong></td>
-    <td><a href="https://tharinda.dev"><strong>tharinda.dev</strong></a></td>
-  </tr>
-  <tr>
-    <td>⚡ <strong>Superpower</strong></td>
-    <td>Bridging high-level product design with robust system architecture</td>
-  </tr>
-  <tr>
-    <td>🤝 <strong>Open To</strong></td>
-    <td>Freelance projects, technical leadership & global collaborations</td>
-  </tr>
-  <tr>
-    <td>📍 <strong>Base</strong></td>
-    <td>Colombo, Sri Lanka 🇱🇰</td>
-  </tr>
-</table>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK MATRIX                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## ⚡ Tech Stack & Ecosystem
 
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,next,nodejs,python,rust,cpp,cs,java,swift,html,css,tailwind,gcp,firebase,vercel,cloudflare,mysql,postgres,supabase,docker,figma,git&perline=12&theme=dark" alt="Skill Icons Matrix" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,rust,java,swift,react,html,css,tailwind,nodejs,dotnet,firebase,gcp,supabase,figma,git,docker&perline=9&theme=dark" alt="Tech Stack Icons" />
 </a>
 
 </div>
 
 <br/>
 
-<details open>
-<summary><b>💬 Core Languages</b></summary>
-<br>
+#### 💬 Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-00F5FF?style=for-the-badge&logo=typescript&logoColor=0A0E17)
+![JavaScript](https://img.shields.io/badge/JavaScript-00F5FF?style=for-the-badge&logo=javascript&logoColor=0A0E17)
+![Python](https://img.shields.io/badge/Python-B026FF?style=for-the-badge&logo=python&logoColor=ffffff)
+![Rust](https://img.shields.io/badge/Rust-00F5FF?style=for-the-badge&logo=rust&logoColor=0A0E17)
+![Java](https://img.shields.io/badge/Java-B026FF?style=for-the-badge&logo=openjdk&logoColor=ffffff)
+![Swift](https://img.shields.io/badge/Swift-00F5FF?style=for-the-badge&logo=swift&logoColor=0A0E17)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+#### 🚀 Frontend
+![React](https://img.shields.io/badge/React-00F5FF?style=for-the-badge&logo=react&logoColor=0A0E17)
+![HTML5](https://img.shields.io/badge/HTML5-B026FF?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-00F5FF?style=for-the-badge&logo=css3&logoColor=0A0E17)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-B026FF?style=for-the-badge&logo=tailwind-css&logoColor=ffffff)
 
-</details>
+#### ☁️ Backend & Cloud
+![NodeJS](https://img.shields.io/badge/Node.js-00F5FF?style=for-the-badge&logo=node.js&logoColor=0A0E17)
+![.NET](https://img.shields.io/badge/.NET-B026FF?style=for-the-badge&logo=.net&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/Firebase-00F5FF?style=for-the-badge&logo=firebase&logoColor=0A0E17)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-B026FF?style=for-the-badge&logo=google-cloud&logoColor=ffffff)
+![Supabase](https://img.shields.io/badge/Supabase-00F5FF?style=for-the-badge&logo=supabase&logoColor=0A0E17)
 
-<details open>
-<summary><b>🚀 Frontend Frameworks & UI</b></summary>
-<br>
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>☁️ Cloud & Infrastructure</b></summary>
-<br>
-
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🗄️ Databases & Storage</b></summary>
-<br>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+#### 🧰 Tools
+![Figma](https://img.shields.io/badge/Figma-B026FF?style=for-the-badge&logo=figma&logoColor=ffffff)
+![Git](https://img.shields.io/badge/Git-00F5FF?style=for-the-badge&logo=git&logoColor=0A0E17)
+![Docker](https://img.shields.io/badge/Docker-B026FF?style=for-the-badge&logo=docker&logoColor=ffffff)
 
 </details>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     GITHUB ANALYTICS DASHBOARD                  -->
+<!--                     FEATURED PROJECTS                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📊 GitHub Analytics Suite
+## 🚀 Featured Projects
 
 <div align="center">
 
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=mr-kumuditha&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0a&title_color=00f5ff&text_color=ffffff&icon_color=bf00ff&ring_color=00f5ff&theme=tokyonight" alt="GitHub Stats" />
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mr-kumuditha&hide_border=true&layout=compact&bg_color=0a0a0a&title_color=00f5ff&text_color=ffffff&theme=tokyonight&langs_count=8" alt="Top Languages" />
+| Project | Stack | Description | Links |
+|:--------|:------|:------------|:-----:|
+| **ClipCycle** | `Java` `JavaFX` | Desktop application implementing a Doubly Linked List for sequential clipboard management and historical copy tracking. | [Code](https://github.com/mr-kumuditha) |
+| **Smart Travel Planner** | `Kotlin` `Jetpack Compose` `Gemini API` `Ethereum` | Android app generating AI itineraries via Gemini API, ARCore spatial navigation, and Sepolia blockchain reviews. | [Code](https://github.com/mr-kumuditha) |
+| **IoT Mining Safety Helmet** | `ESP32` `C++` `RFID` `Web` | Smart safety helmet equipped with RFID zone tracking and fall detection, linked to a real-time web monitor. | [Live Monitor](https://minelivemonitor.systems) |
+| **MacPulse** | `Swift` `SwiftUI` `Swift Actors` | Native macOS system optimizer utilizing Swift Actors for thread-safe system resource cleanup and monitoring. | [Release](https://github.com/mr-kumuditha) |
+| **CodeCraft2 Music** | `React` `Node.js` `Firebase` | Spotify-inspired web application for real-time audio playback, custom playlists, and music sharing. | [Demo](https://tharinda.dev) |
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     GITHUB STATS ROW                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=mr-kumuditha&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&bg_color=0a0e17&title_color=00f5ff&text_color=e6e6e6&icon_color=b026ff&ring_color=00f5ff&border_color=00f5ff" alt="GitHub Stats" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mr-kumuditha&hide_border=false&layout=compact&bg_color=0a0e17&title_color=00f5ff&text_color=e6e6e6&border_color=00f5ff&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -197,51 +117,61 @@ const developer = {
 
 <div align="center">
 
-  <img width="72%" src="https://streak-stats.demolab.com?user=mr-kumuditha&hide_border=true&background=0a0a0a&ring=00f5ff&fire=bf00ff&currStreakLabel=00f5ff&sideLabels=aaaaaa&dates=888888&sideNums=ffffff&currStreakNum=ffffff&theme=tokyonight" alt="GitHub Streak" />
+  <img width="72%" src="https://streak-stats.demolab.com?user=mr-kumuditha&hide_border=false&background=0a0e17&ring=00f5ff&fire=b026ff&currStreakLabel=00f5ff&sideLabels=7d8590&dates=7d8590&sideNums=e6e6e6&currStreakNum=00f5ff&border=00f5ff" alt="GitHub Streak" />
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  CONTRIBUTION GRAPH                            -->
+<!--                       TROPHY SHELF                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📈 Activity & Commit Graph
+## 🏆 Achievements & GitHub Summary
 
 <div align="center">
 
-[![Kumuditha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mr-kumuditha&bg_color=0a0a0a&color=00f5ff&line=bf00ff&point=00f5ff&area_color=00f5ff&area=true&hide_border=true&custom_title=Kumuditha%27s%20Contribution%20Graph)](https://github.com/mr-kumuditha)
+<img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-kumuditha&theme=tokyonight" alt="GitHub Summary Card" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Pull Shark](https://img.shields.io/badge/🏆_Pull_Shark-00F5FF?style=for-the-badge&logo=github&labelColor=0A0E17)](https://github.com/mr-kumuditha)
+[![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-B026FF?style=for-the-badge&logo=github&labelColor=0A0E17)](https://github.com/mr-kumuditha)
+[![Starstruck](https://img.shields.io/badge/⭐_Starstruck-00F5FF?style=for-the-badge&logo=github&labelColor=0A0E17)](https://github.com/mr-kumuditha)
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                 ANIMATED CONTRIBUTION SNAKE                    -->
+<!--                 CONTRIBUTION GRID SNAKE                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🐍 Contribution Grid Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mr-kumuditha/mr-kumuditha/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+<img src="https://raw.githubusercontent.com/mr-kumuditha/mr-kumuditha/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation" width="100%" />
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   FEATURED SHOWCASE                            -->
+<!--                            FOOTER                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🛠️ Featured Projects & Demos
-
-> 🌐 **Explore full case studies & live applications at [tharinda.dev](https://tharinda.dev)**
+## 🤝 Connect
 
 <div align="center">
 
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=mr-kumuditha&repo=mr-kumuditha&bg_color=0a0a0a&title_color=00f5ff&text_color=aaaaaa&icon_color=bf00ff&border_color=1a1a2e&hide_border=false&theme=tokyonight)](https://github.com/mr-kumuditha?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-tharinda.dev-00F5FF?style=for-the-badge&labelColor=0A0E17&color=00F5FF)](https://tharinda.dev)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-mr--kumuditha-ffffff?style=for-the-badge&logo=github&labelColor=0A0E17)](https://github.com/mr-kumuditha)
+[![Email](https://img.shields.io/badge/✉️_Email-contact@tharinda.dev-B026FF?style=for-the-badge&labelColor=0A0E17)](mailto:contact@tharinda.dev)
 
 </div>
 
@@ -249,80 +179,6 @@ const developer = {
 
 <div align="center">
 
-| 🔷 Project | 🛠️ Tech Stack | 📝 Description | 🚀 Status | 🔗 Link |
-|:-----------|:---------------|:--------------|:---------:|:-------:|
-| **Personal Portfolio** | `React` `TypeScript` `Vercel` | Next-gen developer showcase with dynamic animations | `🟢 Live` | [→ Visit](https://tharinda.dev) |
-| **Cloud Microservices** | `Python` `Firebase` `GCP` | High-concurrency cloud API backend architecture | `⚡ Active` | [→ View](https://github.com/mr-kumuditha) |
-| **Systems Utilities** | `Rust` `Supabase` | High-performance CLI tooling & database management | `⚙️ Open Source` | [→ View](https://github.com/mr-kumuditha) |
-| **Enterprise Web** | `C#` `.NET` `SQL Server` | Enterprise resource management & web APIs | `⚡ Production` | [→ View](https://github.com/mr-kumuditha) |
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   ACHIEVEMENTS / TROPHIES                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🏆 GitHub Achievements & Profile Summary
-
-<div align="center">
-
-<img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-kumuditha&theme=tokyonight" alt="GitHub Profile Summary" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Pull Shark](https://img.shields.io/badge/🏆_Achievement-Pull_Shark-00f5ff?style=for-the-badge&logo=github&labelColor=0a0a0a)](https://github.com/mr-kumuditha)
-[![Quickdraw](https://img.shields.io/badge/⚡_Achievement-Quickdraw-bf00ff?style=for-the-badge&logo=github&labelColor=0a0a0a)](https://github.com/mr-kumuditha)
-[![Starstruck](https://img.shields.io/badge/⭐_Achievement-Starstruck-ffaa00?style=for-the-badge&logo=github&labelColor=0a0a0a)](https://github.com/mr-kumuditha)
-[![Pair Extraordinaire](https://img.shields.io/badge/🤝_Achievement-Pair_Extraordinaire-00ff88?style=for-the-badge&logo=github&labelColor=0a0a0a)](https://github.com/mr-kumuditha)
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   DAILY DEVELOPER QUOTE                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     CONNECT & CONTACT                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🤝 Let's Connect & Build Together
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-tharinda.dev-00f5ff?style=for-the-badge&labelColor=0a0a0a&color=00f5ff)](https://tharinda.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_@mr--kumuditha-ffffff?style=for-the-badge&logo=github&labelColor=0a0a0a)](https://github.com/mr-kumuditha)
-[![Status](https://img.shields.io/badge/💼_Status-Available_For_Hire-00ff88?style=for-the-badge&labelColor=0a0a0a)](https://tharinda.dev)
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        FOOTER                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,12,30&height=130&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=22&fontColor=00f5ff&animation=twinkling&fontAlignY=65" width="100%" alt="Footer Banner"/>
-
-**`< Engineered with 💜 & ☕ by Kumuditha Tharinda />`**
-
-*"Code is poetry written in logic. Ship with excellence." ⚡*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,5,15&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=00f5ff&animation=twinkling&fontAlignY=65&stroke=b026ff&strokeWidth=2" width="100%" alt="Footer Banner"/>
 
 </div>
