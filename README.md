@@ -211,7 +211,7 @@ const developer = {
 
 <div align="center">
 
-[![Kumuditha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mr-kumuditha&bg_color=0a0a0a&color=00f5ff&line=bf00ff&point=00f5ff&area_color=00f5ff&area=true&hide_border=true&custom_title=Kumuditha%27s%20Contribution%20Graph)](https://github.com/mr-kumuditha)
+[![Kumuditha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mr-kumuditha&theme=tokyonight&hide_border=true&area=true)](https://github.com/mr-kumuditha)
 
 </div>
 
@@ -264,11 +264,16 @@ const developer = {
 <!--                   ACHIEVEMENTS / TROPHIES                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🏆 GitHub Achievements & Profile Summary
+## 🏆 GitHub Achievements Showcase
 
 <div align="center">
 
-<img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-kumuditha&theme=tokyonight" alt="GitHub Profile Summary" />
+<a href="https://github.com/mr-kumuditha?tab=achievements">
+  <img src="https://img.shields.io/badge/Pull_Shark-🦈_Merged_PRs-00f5ff?style=for-the-badge&logo=github&labelColor=0a0a0a" alt="Pull Shark" />
+  <img src="https://img.shields.io/badge/Quickdraw-⚡_Fast_Responder-bf00ff?style=for-the-badge&logo=github&labelColor=0a0a0a" alt="Quickdraw" />
+  <img src="https://img.shields.io/badge/Starstruck-⭐_Starred_Repos-ffaa00?style=for-the-badge&logo=github&labelColor=0a0a0a" alt="Starstruck" />
+  <img src="https://img.shields.io/badge/Pair_Extraordinaire-🤝_Co--Author-00ff88?style=for-the-badge&logo=github&labelColor=0a0a0a" alt="Pair Extraordinaire" />
+</a>
 
 </div>
 
@@ -276,10 +281,13 @@ const developer = {
 
 <div align="center">
 
-[![Pull Shark](https://img.shields.io/badge/🏆_Achievement-Pull_Shark-00f5ff?style=for-the-badge&logo=github&labelColor=0a0a0a)](https://github.com/mr-kumuditha)
-[![Quickdraw](https://img.shields.io/badge/⚡_Achievement-Quickdraw-bf00ff?style=for-the-badge&logo=github&labelColor=0a0a0a)](https://github.com/mr-kumuditha)
-[![Starstruck](https://img.shields.io/badge/⭐_Achievement-Starstruck-ffaa00?style=for-the-badge&logo=github&labelColor=0a0a0a)](https://github.com/mr-kumuditha)
-[![Pair Extraordinaire](https://img.shields.io/badge/🤝_Achievement-Pair_Extraordinaire-00ff88?style=for-the-badge&logo=github&labelColor=0a0a0a)](https://github.com/mr-kumuditha)
+| 🏆 Badge | 📜 Achievement | 🎯 Description | 🚀 Status |
+|:--------:|:--------------|:--------------|:---------:|
+| 🦈 | **Pull Shark** | Merged code contributions into open-source repositories | `Unlocked 🔓` |
+| ⚡ | **Quickdraw** | Closed issues and pull requests with lightning speed | `Unlocked 🔓` |
+| ⭐ | **Starstruck** | Created repositories that earned community appreciation | `Unlocked 🔓` |
+| 🤝 | **Pair Extraordinaire** | Co-authored commits and collaborated on team projects | `Unlocked 🔓` |
+| ❄️ | **Code Vault Contributor** | Code preserved in GitHub's long-term software archive | `Unlocked 🔓` |
 
 </div>
 
